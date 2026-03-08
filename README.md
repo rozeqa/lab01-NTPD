@@ -1,4 +1,4 @@
-# lab01-NTPD
+# lab01-NTPD - Róża Domańska 122328
 
 **Lista różnic i wyzwań, które pojawiają się przy wdrażaniu modelu ML w środowisku produkcyjnym:**
 
